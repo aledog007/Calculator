@@ -6,7 +6,6 @@ class Calculator {
     }
 
     clear() {
-        this.chooseOperation = '';
         this.currentOperand = '';
         this.operation = undefined;
     }
